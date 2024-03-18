@@ -1,4 +1,25 @@
-Wallpaper App
+# Wallpaper App
+
+
+Technologies used : 
+
+* MVVM (Model-View-ViewModel) - Our architectural foundation, enabling a modular, efficient, and testable codebase.
+<br>
+
+* Coroutines - For asynchronous programming, ensuring smooth performance without blocking the UI thread.
+<br>
+
+* ViewModel - To manage UI-related data in a lifecycle-conscious way, making our app more robust and manageable.
+<br>
+
+* Retrofit - Our choice for network calls, thanks to its simplicity and power in handling REST APIs.
+<br>
+
+* Glide - For efficient image loading and caching, ensuring our wallpapers look stunning without sacrificing performance.
+<br>
+
+* Hilt - For dependency injection, simplifying the code and reducing boilerplate.
+<br>
 
 https://github.com/AryanShivva/WallpaperApp/assets/124916476/7619df00-6d0c-4fa6-bfd0-671496799511
 
